@@ -1,3 +1,5 @@
 Dolo|Aliou|Dev Data|774816108|19|17|20|18.67
 dou|Dolo|Dev Web|775645968|15|16|20|17
 Ingré|Dolo|Dev web|774812345|18|20|10|16
+Amadou|Dolo|Dev Data|754530577|16|12|15|14
+Amadou|Diallo|Dev web|768617369|18|15|12|15
